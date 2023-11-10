@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Fixed project issues through research, knowledge of how Git push works, and knowledge of terminal superuser permissions
 
 ## Procedure
-Full procedure can be found at [Build Full Stack React Application](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/?ref=gsrchandson&id=updated)
+Full procedure can be found at [Build Full Stack React Application](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/?ref=gsrchandson&id=updated).
 
 ## Available Scripts
 
