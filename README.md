@@ -1,6 +1,23 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project involved creating a simple React note maker application that recorded different text notes that the user puts in. The application implemented an authentication layer, allowing users to create an account to access their own personal notes. The application also added functionality to upload images to the notes app. Proof of concepts are found in the repository.
+
+## AWS Services Used
+* AWS Amplify
+* Amazon DynamoDB
+* AWS AppSync for GraphQL API Implementation
+
+## Additional Technologies Used
+* Git
+* Node.js v.10
+* Sublime Text
+* Terminal
+
+## Challenges 
+* Had to restart project due to problems with Git commands and code change mistakes
+* Troubleshooted Git commands by switching to superuser access, using sudo behind every command.
+* Fixed code change mistakes by utilizing Subime Text as a text editor
+* Fixed project issues through research, knowledge of how Git push works, and knowledge of terminal superuser permissions
 
 ## Available Scripts
 
